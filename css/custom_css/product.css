@@ -1,0 +1,10 @@
+﻿@media screen {
+    body {
+        margin: .5in;
+    }
+
+    html {
+        width: 8.5in;
+        height: 11.5in;
+    }
+}
