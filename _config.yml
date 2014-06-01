@@ -1,3 +1,7 @@
-name: Your New Jekyll Site
+name: So Whats Bitcoin?
 markdown: redcarpet
 pygments: true
+
+exclude:  [CNAME, Gemfile, Gemfile.lock]
+
+relative_permalinks: false

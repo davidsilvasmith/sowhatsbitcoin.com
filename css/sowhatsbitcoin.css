@@ -1,4 +1,8 @@
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
+img {
+max-width: 100%;
+}
+
 article,
 aside,
 details,
