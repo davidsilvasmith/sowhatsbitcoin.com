@@ -33,7 +33,7 @@
                 <a class="navbar-brand" href="/">What's Bitcoin?</a>
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
+                <ul id="navList"class="nav navbar-nav">
                     <li id="homeNav"><a href="/">Home</a></li>
                     <li id="givNav"><a href="/Businesses">Businesses</a></li>
                     <li id="getNav"><a href="/Developers">Developers</a></li>
@@ -52,8 +52,13 @@
     <script src="/Scripts/bootstrap.min.js"></script>
     <script>
         $(document).ready(function () {
-            $('#homeNav').addClass('active');
+          curNav = window.location.href.split('/')[3];
+          //handle root nav
+          curNav = '/' + curNav
+          
+          $('#navList a[href$="' + curNav + '"]').parent().addClass('active');
         });
+
         //open external links in a new window
         $(document).ready(function () {
             $("a[href^=http]").each(function () {
@@ -64,20 +69,6 @@
                     });
                 }
             })
-        });
-
-
-        $(document).ready(function () {
-            $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
-                e.target // activated tab
-                e.relatedTarget // previous tab
-
-                var targetTab = e.target.href.split('#')[1];
-                $('#myTab a[href="' + targetTab + '"]').tab('show');
-
-                $(".nav-tabs a").parent().removeClass('active');
-                $(".nav-tabs a[href=#" + targetTab + "]").parent().addClass('active');
-            });
         });
     </script>
     <script>
