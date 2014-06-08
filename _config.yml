@@ -5,3 +5,11 @@ pygments: true
 exclude:  [CNAME, Gemfile, Gemfile.lock]
 
 relative_permalinks: false
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+      
