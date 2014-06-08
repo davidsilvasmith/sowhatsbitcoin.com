@@ -1,6 +1,8 @@
 name: So Whats Bitcoin?
 markdown: redcarpet
 pygments: true
+safe: true
+lsi: false
 
 exclude:  [CNAME, Gemfile, Gemfile.lock]
 
