@@ -1,0 +1,34 @@
+---
+layout: default
+title: Bitcoin for citizens
+submenu: for-citizens-menu.md
+permalink: /for-citizens/
+---
+
+
+
+#### <i class="fa fa-question-circle"></i> Bitcoin is like <strong>digital gold</strong> Bitcoin is
+	
+* <i class="fa fa-bolt"></i> <strong>Fast</strong> - Bitcoin moves anywhere in the world as fast as email.
+* <i class="fa fa-signal"></i>  <strong>Rare</strong> - There will only be 21 million bitcoins ever. Luckily bitcoins are very divisible. Everyone can have some, but not a lot.
+* <i class="fa fa-money"></i> <strong>Counterfeit-proof</strong> - Bitcoin is the safest way to get paid. Bitcoins cannot be counterfeit and payments cannot be reversed. Many criminals will be out of a job when bitcoin become mainstream.
+* <i class="fa fa-gavel"></i> <strong>Not a Bureaucratic Tool</strong> - Bitcoin is designed as a safe way to store your wealth. Bitcoins cannot be printed to wage wars, pay political allies, or erode consumer savings. 
+
+
+#### <i class="fa fa-thumbs-o-up"></i> Why would I want bitcoins?
+* <i class="fa fa-level-up"></i> Bitcoins may be worth a lot of money someday.  If not then the primary reason to buy bitcoins today is as an investment. Bitcoin has the potential to change every financial transaction in the world. If it only achieves a fraction of it's potential bitcoin will be worth many times more than it is today. Silicon Valley Venture Capitalist Chris Dixon believes even as much as <a href="http://www.wired.com/2014/01/chrisdixon/">$100,000 per bitcoin</a>.
+* <i class="fa fa-credit-card"></i> Issues with credit cards, banks, or cash? Everyone can use bitcoin. No application process required.
+
+
+#### <i class="fa fa-exclamation-triangle"></i> Why wouldn't I want to own bitcoins?
+* <i class="fa fa-trash-o"></i> Your bitcoin investment could end up worthless. Bitcoin was invented in 2009. No one knows if bitcoin will succeed or not. It is a network as more people use it it becomes more valuable. Bitcoin will be a huge success or a huge failure.
+* <i class="fa fa-unlock-alt"></i> Your bitcoins can be stolen by hackers.
+
+#### <i class="fa fa-usd"></i> <i class="fa fa-exchange"></i> <i class="fa fa-btc"></i> Where do I get bitcoins?
+If you live in the U.S. Coinbase is an easy, safe way to buy and store your bitcoins. Here is a 3 minute video [showing how to buy $0.77 worth](https://www.youtube.com/watch?v=fAbWcpmeZXE) of bitcoin.
+
+
+#### Next Steps:
+* Buy $5 worth of bitcoin from Coinbase
+* Share with everyone that you understand bitcoin. <a href="http://twitter.com/home?status=I+understand+bitcoin%21+Thanks+http%3A%2F%2Fwww.sowhatsbitcoin.com+and+%40davidsilvasmith"><i class="fa fa-twitter"></i></a> <a href="http://www.facebook.com/sharer.php?u=http://www.sowhatsbitcoin.com"><i class="fa fa-facebook-square"></i></a>
+* Read the [frequently asked questions](faq/).

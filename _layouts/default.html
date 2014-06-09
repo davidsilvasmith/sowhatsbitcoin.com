@@ -1,3 +1,16 @@
+---
+navigation:
+ - text: What is Bitcoin?
+   url: /
+ - text: Businesses
+   url: /for-businesses/
+ - text: Developers
+   url: /for-developers/
+ - text: Citizens
+   url: /for-citizens/
+ - text: About
+   url: /About/
+---
 
 <!DOCTYPE html>
 <html lang="en">
@@ -34,33 +47,37 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul id="navList" class="nav navbar-nav">
-                    <li><a href="/">What is Bitcoin?</a></li>
-                    <li><a href="/for-businesses/">Businesses</a></li>
-                    <li><a href="/for-developers/">Developers</a></li>
-                    <li><a href="/for-citizens/">Citizens</a></li>
-                    <li><a href="/About/">About</a></li>
+                    {% assign url = page.url|remove:'index.html' %}
+                    
+                    {% for link in page.navigation %}
+                    {% assign urlSize = link.url|size %}
+                    <li {% if url contains link.url and urlSize > 2 %}class="active"{% endif %} {% if url == '/' and url == link.url %}class="active"{% endif %}>
+                        <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+                    </li>
+                    {% endfor %}
                 </ul>
             </div>
+                {% if page.url contains '/for-citizens/'' %}
+                {% capture submenu %}{% include for-citizens-menu.md%}{% endcapture %}
+                <div class="navbar-collapse collapse">
+                <ul id="navList" class="nav navbar-nav">
+                    {{ submenu | markdownify }}
+                </ul>
+            </div>
+                {% endif %}
         </div>
     </div>
     <div class="container">
         {{ content }}
+        <hr />
+        <div>Like this site? Help by donating to this bitcoin address <strong>1GYcJRmyntZhsUJK3KurNSuev5aX4a3DSx</strong> or scan this 
     </div>
-    <div>© {{ site.time | date: "%Y" }} </div>
+    <img src="https://blockchain.info/qr?data=1GYcJRmyntZhsUJK3KurNSuev5aX4a3DSx&size=100" />
+    © {{ site.time | date: "%Y" }} </div>
     <script src="/scripts/jquery-1.8.2.min.js"></script>
     <script src="/scripts/bootstrap.min.js"></script>
 
     <script>
-        $(document).ready(function () {
-          curNav = window.location.href.split('/')[3];
-          //handle root nav
-          if (curNav){
-            curNav = '/' + curNav
-          }
-
-          $('#navList a[href="' + curNav + '/"]').parent().addClass('active');
-        });
-
         //open external links in a new window
         $(document).ready(function () {
             $("a[href^=http]").each(function () {

@@ -1,5 +1,6 @@
 name: So Whats Bitcoin?
 markdown: kramdown
+timezone: America/Detroit
 pygments: true
 safe: true
 lsi: false
