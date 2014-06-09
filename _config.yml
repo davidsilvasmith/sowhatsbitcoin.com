@@ -5,6 +5,7 @@ pygments: true
 safe: true
 lsi: false
 
+url: http://www.sowhatsbitcoin.com
 exclude:  [CNAME, Gemfile, Gemfile.lock]
 
 relative_permalinks: false
