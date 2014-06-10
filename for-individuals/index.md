@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Bitcoin for citizens
-submenu: for-citizens-menu.md
-permalink: /for-citizens/
+title: Bitcoin for individuals
+submenu: for-individuals-menu.md
+permalink: /for-individuals/
 ---
 
 

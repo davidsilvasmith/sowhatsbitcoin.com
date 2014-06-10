@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bitcoin frequently asked questions
-permalink: /for-citizens/faq/
+permalink: /for-individuals/faq/
 ---
 
 

@@ -6,8 +6,8 @@ navigation:
    url: /for-businesses/
  - text: Developers
    url: /for-developers/
- - text: Citizens
-   url: /for-citizens/
+ - text: Individuals
+   url: /for-individuals/
  - text: About
    url: /About/
 ---
@@ -71,8 +71,8 @@ navigation:
                     {% endfor %}
                 </ul>
             </div>
-                {% if page.url contains '/for-citizens/'' %}
-                {% capture submenu %}{% include for-citizens-menu.md%}{% endcapture %}
+                {% if page.url contains '/for-individuals/'' %}
+                {% capture submenu %}{% include for-individuals-menu.md%}{% endcapture %}
                 <div class="navbar-collapse collapse">
                 <ul id="navList" class="nav navbar-nav">
                     {{ submenu | markdownify }}
