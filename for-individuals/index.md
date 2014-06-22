@@ -7,11 +7,11 @@ permalink: /for-individuals/
 
 
 
-#### <i class="fa fa-question-circle"></i> Bitcoin is like <strong>digital gold</strong> Bitcoin is
+#### <i class="fa fa-question-circle"></i> Bitcoin is like <strong>digital gold</strong>. Bitcoin is
 	
 * <i class="fa fa-bolt"></i> <strong>Fast</strong> - Bitcoin moves anywhere in the world as fast as email.
 * <i class="fa fa-signal"></i>  <strong>Rare</strong> - There will only be 21 million bitcoins ever. Luckily bitcoins are very divisible. Everyone can have some, but not a lot.
-* <i class="fa fa-money"></i> <strong>Counterfeit-proof</strong> - Bitcoin is the safest way to get paid. Bitcoins cannot be counterfeit and payments cannot be reversed. Many criminals will be out of a job when bitcoin become mainstream.
+* <i class="fa fa-money"></i> <strong>Counterfeit-proof</strong> - Bitcoin is the safest way to get paid. Bitcoins cannot be counterfeit and payments cannot be reversed. Many criminals will be out of a job when bitcoin becomes mainstream.
 * <i class="fa fa-gavel"></i> <strong>Not a Bureaucratic Tool</strong> - Bitcoin is designed as a safe way to store your wealth. Bitcoins cannot be printed to wage wars, pay political allies, or erode consumer savings. 
 
 
@@ -24,11 +24,8 @@ permalink: /for-individuals/
 * <i class="fa fa-trash-o"></i> Your bitcoin investment could end up worthless. Bitcoin was invented in 2009. No one knows if bitcoin will succeed or not. It is a network as more people use it it becomes more valuable. Bitcoin will be a huge success or a huge failure.
 * <i class="fa fa-unlock-alt"></i> Your bitcoins can be stolen by hackers.
 
-#### <i class="fa fa-usd"></i> <i class="fa fa-exchange"></i> <i class="fa fa-btc"></i> Where do I get bitcoins?
-If you live in the U.S. Coinbase is an easy, safe way to buy and store your bitcoins. Here is a 3 minute video [showing how to buy $0.77 worth](https://www.youtube.com/watch?v=fAbWcpmeZXE) of bitcoin.
-
 
 #### Next Steps:
-* Buy $5 worth of bitcoin from Coinbase
-* Share with everyone that you understand bitcoin. <a href="http://twitter.com/home?status=I+understand+bitcoin%21+Thanks+http%3A%2F%2Fwww.sowhatsbitcoin.com+and+%40davidsilvasmith"><i class="fa fa-twitter"></i></a> <a href="http://www.facebook.com/sharer.php?u=http://www.sowhatsbitcoin.com"><i class="fa fa-facebook-square"></i></a>
-* Read the [frequently asked questions](faq/).
+* <i class="fa fa-usd"></i> <i class="fa fa-long-arrow-right"></i> <i class="fa fa-btc"></i> Know how to [buy $5 worth of bitcoin](Buy/)
+* Share with everyone that you understand bitcoin. <a href="http://twitter.com/home?status=I+understand+%23bitcoin%21+Thanks+%40sowhatsbitcoin!"><i class="fa fa-twitter"></i> Twitter</a> or <a href="http://www.facebook.com/sharer.php?u=http://www.sowhatsbitcoin.com"><i class="fa fa-facebook-square"></i> Facebook</a>
+* Read the [frequently asked questions](faq/) for individuals.
