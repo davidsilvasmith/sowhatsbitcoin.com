@@ -25,42 +25,43 @@
 
 .nav-justified > li > a {
   color: @navbar-default-color;  
-  display:block;
-  height:100%;
+  line-height: 51px;
+  &:hover {
+    text-decoration: none;
+  }
 }
 
-.nav-justified > .active > a,
-.nav-justified > .active > a:hover,
-.nav-justified > .active > a:focus {
+.nav-justified > .active,
+.nav-justified > .active:hover,
+.nav-justified > .active:focus {
   background-color: @navbar-default-link-hover-bg;
   background-image: none;  
   box-shadow: inset 0 3px 7px rgba(0,0,0,.15);
 }
 
-.nav-justified > li:first-child > a {
+.nav-justified > li:first-child{
   border-radius: 5px 5px 0 0;
 }
 
-.nav-justified > li:last-child > a {
+.nav-justified > li:last-child{
   border-radius: 0 0 5px 5px;
 }
 
 
-/* TINY SCREEN */
+/* LARGE SCREEN */
 
 @media (min-width: 768px) {
   .nav-justified {
     max-height: 52px;
   }
-  .nav-justified > li > a {
+  .nav-justified > li{
     border-left: @justBorder;
-    
   }
-  .nav-justified > li:first-child > a {
+  .nav-justified > li:first-child {
     border-left: 0;
     border-radius: 5px 0 0 5px;
   }
-  .nav-justified > li:last-child > a {
+  .nav-justified > li:last-child {
     border-radius: 0 5px 5px 0;
     border-right: 0;
   }
@@ -85,15 +86,17 @@
   > li {
     position: relative;
     display: block;
+    padding: @nav-link-padding;
+      &:hover,
+      &:focus {
+        background-color: @nav-link-hover-bg;
+      }
 
     > a {
       position: relative;
       display: block;
-      padding: @nav-link-padding;
-      &:hover,
       &:focus {
         text-decoration: none;
-        background-color: @nav-link-hover-bg;
       }
     }
 
@@ -154,9 +157,6 @@
     float: left;
     // Make the list-items overlay the bottom border
     margin-bottom: -1px;
-
-    // Actual tabs (as links)
-    > a {
       margin-right: 2px;
       line-height: @line-height-base;
       border: 1px solid transparent;
@@ -164,10 +164,14 @@
       &:hover {
         border-color: @nav-tabs-link-hover-border-color @nav-tabs-link-hover-border-color @nav-tabs-border-color;
       }
+
+    // Actual tabs (as links)
+    > a {
+
     }
 
     // Active state, and it's :hover to override normal :hover
-    &.active > a {
+    &.active{
       &,
       &:hover,
       &:focus {
@@ -269,16 +273,10 @@
 .nav-tabs-justified {
   border-bottom: 0;
 
-  > li > a {
+  > li {
     // Override margin from .nav-tabs
     margin-right: 0;
     border-radius: @border-radius-base;
-  }
-
-  > .active > a,
-  > .active > a:hover,
-  > .active > a:focus {
-    border: 1px solid @nav-tabs-justified-link-border-color;
   }
 
   @media (min-width: @screen-sm-min) {
