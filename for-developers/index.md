@@ -11,9 +11,10 @@ Bitcoin is a computer science break through. Bitcoin's core innovation is a dist
 
 #### Getting Started
     
-1. Satoshi's 8 page [whitepaper](https://bitcoin.org/bitcoin.pdf) will give a concise explanation of bitcoin.
+1. Satoshi's 8 page [whitepaper](https://bitcoin.org/bitcoin.pdf) gives a concise explanation of bitcoin.
 2. Buy $5 worth of bitcoin at [Coinbase](/for-individuals/buy/)
 3. The company Blockchain.info has an easily consumable [API](https://blockchain.info/api) to program against. Incidentally most consumer facing companies like [Coinbase](http://www.coinbase.com) and [BitPay](http://www.bitpay.com) have APIs as well
+4. [Let's Talk Bitcoin](http://letstalkbitcoin.com/) is a great podcast to stay up to date on bitcoin and digital currency developments.
 
 #### Getting Help
 

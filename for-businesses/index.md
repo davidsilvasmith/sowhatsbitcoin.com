@@ -12,7 +12,7 @@ permalink: /for-businesses/
  * <i class="fa fa-ban"></i> Payments have no fees attached.
  * <i class="fa fa-money"></i> [BitPay](https://bitpay.com/start) eliminates bitcoin volatility risk and lets you settle in cash.
     
-####Here are other ways bitcoin can help
+#### Other ways bitcoin can help
 		
  * <i class="fa fa-bullhorn"></i> Want some publicity? Unique, interesting, or surprising usage of bitcoin will get national attention.
  * <i class="fa fa-tachometer"></i> Would micropayments provide new revenue opportunities? With bitcoin's tiny transaction fees sub dollar and even sub cent transactions are possible!
