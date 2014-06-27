@@ -36,13 +36,23 @@
                     files: ['./_site/index.html']
 
                      //files: ['./_site/**/*.html']
+             },
+         'link-checker': {
+              dev: {
+                site: 'localhost',
+                options: {
+                  initialPort: 4000
+                }
+              }
             }
          });
          grunt.loadNpmTasks('grunt-contrib-less');
          grunt.loadNpmTasks('grunt-contrib-watch');
          grunt.loadNpmTasks('grunt-img');
          grunt.loadNpmTasks('grunt-spell');
+         grunt.loadNpmTasks('grunt-link-checker');
          grunt.registerTask('default', ['watch']);
          grunt.registerTask('check', ['spell']);
-         grunt.registerTask('prod', ['img', 'less:production' ])
+
+         grunt.registerTask('prod', ['img', 'less:production', 'link-checker' ])
      };
