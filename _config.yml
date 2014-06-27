@@ -7,6 +7,7 @@ lsi: false
 
 url: http://www.sowhatsbitcoin.com
 exclude:  [CNAME, Gemfile, Gemfile.lock, '*.less', gruntfile.js, custom_css, node_modules, README.md, '*.svg']
+include: [glyphicons-halflings-regular.svg]
 
 relative_permalinks: false
 
