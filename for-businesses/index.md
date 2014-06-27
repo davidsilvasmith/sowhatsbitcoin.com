@@ -8,7 +8,7 @@ permalink: /for-businesses/
 
 #### It is also one of the fastest and cheapest ways to receive U.S. dollars <i class="fa fa-money"></i>
  * <i class="fa fa-shield"></i> Safely accept payment from anyone in the world. (no chargebacks)
- * <i class="fa fa-shopping-cart"></i> Integrations are much easier than any other form of payment.
+ * <i class="fa fa-shopping-cart"></i> Integrations are easier than any other form of payment.
  * <i class="fa fa-ban"></i> Payments have no fees attached.
  * <i class="fa fa-money"></i> [BitPay](https://bitpay.com/start) eliminates bitcoin volatility risk and lets you settle in cash.
     
@@ -16,7 +16,7 @@ permalink: /for-businesses/
 		
  * <i class="fa fa-bullhorn"></i> Want some publicity? Unique, interesting, or surprising usage of bitcoin will get national attention.
  * <i class="fa fa-tachometer"></i> Would micropayments provide new revenue opportunities? With bitcoin's tiny transaction fees sub dollar and even sub cent transactions are possible!
- * <i class="fa fa-signal"></i> Would simplifying checkout increase conversions? With bitcoin customers don't need to create an account to pay you. Payments can be made by scanning a QR code.
+ * <i class="fa fa-signal"></i> Would simplifying checkout increase conversions? With bitcoin customers don't need to create an account to pay you. Payment can be made by scanning a QR code.
  * <span class="fa-stack">
   <i class="fa fa-university fa-stack-1x"></i>
   <i class="fa fa-ban fa-stack-2x"></i>

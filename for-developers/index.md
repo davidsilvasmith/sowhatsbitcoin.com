@@ -7,7 +7,7 @@ permalink: /for-developers/
 #### Bitcoin is a breakthrough that can change your **career**.
 
 
-Bitcoin is a computer science break through. Bitcoin's core innovation is a distributed ledger that is unforgeable. Basically it works like bittorrent but for sending and receiving payments.
+Bitcoin is a computer science break through. Bitcoin's core innovation is a distributed ledger that is unforgeable. Basically it works like BitTorrent but for sending and receiving payments.
 
 #### Getting Started
     
@@ -19,4 +19,4 @@ Bitcoin is a computer science break through. Bitcoin's core innovation is a dist
 #### Getting Help
 
 1. Bitcoin has it's own [StackExchange](http://bitcoin.stackexchange.com/) for bitcoin related questions. Keep programming questions on [StackOverflow](http://stackoverflow.com/)
-2. [Bitcoin Talk](https://bitcointalk.org/) is a great forum for asking in depth questions and seeing the latest news.
+2. [Bitcoin Talk](https://bitcointalk.org/) is a great forum for asking in-depth questions and seeing the latest news.

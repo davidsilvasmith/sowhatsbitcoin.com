@@ -6,7 +6,7 @@ permalink: /for-individuals/faq/
 
 
 Who controls bitcoin? 
-: Bitcoin is controlled by the users of the system. New software changes must be voluntarily accepted by bitcoin users.
+: Users of the bitcoin system control it. Bitcoin users must voluntarily accept new software changes. Another way to think about it is the way Word processing works. No one has to use a particular version of software and no one has to upgrade ever, but everyone on the same version knows they can work together. That is similar to how bitcoin works.
 
 How are bitcoins made?
 : Bitcoins are created through a process called mining. The best way to think of it is like a lottery that gives out a prize (bitcoin) every ten minutes. The more tickets someone has the higher their chance of winning. The major difference is that instead of lottery tickets it is computing power (technically hashing power) that gives a chance to win. The more power the more chance of winning.
