@@ -44,7 +44,17 @@
                   initialPort: 4000
                 }
               }
-            }
+            },
+
+            filetransform: {
+                options: {
+                  // Task-specific options go here.
+                },
+                files: {
+                        files: {
+                            'example': ['file1', 'file2']
+                },
+            },
          });
          grunt.loadNpmTasks('grunt-contrib-less');
          grunt.loadNpmTasks('grunt-contrib-watch');
@@ -53,6 +63,7 @@
          grunt.loadNpmTasks('grunt-link-checker');
          grunt.registerTask('default', ['watch']);
          grunt.registerTask('check', ['spell']);
+         grunt.loadNpmTasks('grunt-filetransform');
 
          grunt.registerTask('prod', ['img', 'less:production', 'link-checker' ])
      };
