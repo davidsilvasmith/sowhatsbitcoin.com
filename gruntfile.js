@@ -51,8 +51,7 @@
                   // Task-specific options go here.
                 },
                 files: {
-                        files: {
-                            'example': ['file1', 'file2']
+                        'example': ['file1', 'file2']
                 },
             },
          });
