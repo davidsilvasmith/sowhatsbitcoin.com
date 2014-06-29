@@ -39,13 +39,6 @@ gulp.task('spellcheck', function () {
 	    pattern: /(<([^>]+)>)/ig,
 	    replacement: ''
 	  }];
-	var spellSuggestions = [
-	{
-	    pattern:  / [^ ]+? \(suggestions:[A-z, ']+\)/g,
-	    replacement: function(match) {
-      return '<<<' + match + '>>>';
-    }
-	  }];
 
 	var nonSuggestions = [
 	{
@@ -59,20 +52,17 @@ gulp.task('spellcheck', function () {
 	  }];
     var a = gulp.src('./_site/**/*.html')
     	.pipe(frep(patterns))
-        .pipe(spellcheck())
-        //.pipe(replace({regex:' [^ ]+? \(suggestions:.+\)|([^\s]+)', replace:'DeLorean'}))
-        .pipe(frep(spellSuggestions))
+        .pipe(spellcheck(({replacement: '<<<%s (suggestions: %s)>>>'})))
         .pipe(frep(nonSuggestions))
         ;	
     
-    var util = require('util')
- 	var outMe = util.inspect(a)
-    
     a.on('data', function(chunk) {
     	var contents = chunk.contents.toString().trim(); 
+    	var bufLength = process.stdout.columns;
+    	var hr = '\n\n' + Array(bufLength).join("_") + '\n\n'
     	if (contents.length > 1) {
 	    	process.stdout.write(chunk.path + '\n' + contents + '\n');
-	    	process.stdout.write(chunk.path + '\n\n' + '_______________________________________' + '\n');
+	    	process.stdout.write(chunk.path + hr);
     	}
 	});
 });
