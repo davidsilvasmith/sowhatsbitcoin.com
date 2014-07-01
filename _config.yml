@@ -11,6 +11,10 @@ include: [glyphicons-halflings-regular.svg]
 
 relative_permalinks: false
 
+kramdown:
+ auto_id_stripping: true
+ enable_coderay: false
+
 defaults:
   -
     scope:
