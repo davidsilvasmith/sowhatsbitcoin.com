@@ -16,11 +16,11 @@ We are working to schedule an event to **educate** Michigan business leaders on 
 target="hidden_iframe" onsubmit="submitted=true;">
 
 <div id="formContent">
-<div class="ss-q-title">Email Address
+<span class="ss-q-title">Yes I'd like to come! Email Address:
 <input type="text" name="entry.1198304676" value="" class="ss-q-short" id="entry_1198304676" dir="auto" aria-label="Email Address yourname@domain.com " aria-required="true" required="" title="">
+<input type="submit" class="btn btn-success" name="submit" value="pre-register me!" id="ss-submit">
+</span>
 </div>
-<input type="submit" name="submit" value="Submit" id="ss-submit">
-</div>
-<div style="display:none;" id='thanks'><strong>Thanks!</strong> We've added you to our list and will notify you with updates.</div>
+<div style="display:none;" id='thanks'><strong>Thanks!</strong> We've added you to our email list and will notify you with updates.</div>
 </form>
 
