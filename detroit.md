@@ -1,12 +1,21 @@
 ---
 layout: default
-title: So What's Bitcoin? Explaining bitcoin to everyone.
+title: "Bitcoin: What Michigan Needs to Know"
 permalink: /detroit/
 ---
 
-# Bitcoin is coming to Detroit!
+# Bitcoin: What Michigan Needs to Know
 
 We are working to schedule an event to **educate** Michigan business leaders on the **economic** opportunities bitcoin provides.
+
+
+#### Why do you need to come?
+
+ * Hear from Michigan business and political leaders
+ * Experience receiving and using bitcoin
+ * Get a view into bitcoin culture
+ * Understand how bitcoin can help your business
+
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)
@@ -23,4 +32,3 @@ target="hidden_iframe" onsubmit="submitted=true;">
 </div>
 <div style="display:none;" id='thanks'><strong>Thanks!</strong> We've added you to our email list and will notify you with updates.</div>
 </form>
-
