@@ -1,9 +1,11 @@
 sowhatsbitcoin.com
 ==================
 
-# So whats bitcoin website Made by David Smith
+# So whats bitcoin website 
 
-# Requires
+Made by David Smith
+
+# Uses
 
 * LESS
   * Node
@@ -18,8 +20,8 @@ sowhatsbitcoin.com
 
 * Gimp
 * Inkscape
-* Favicons generated with http://realfavicongenerator.net/
+* [Real Favicon Generator](http://realfavicongenerator.net/)
 
-Facebook Debugger is useful for open graph debugging
-
-https://developers.facebook.com/tools/debug/og/object?q=http%3A%2F%2Fwww.sowhatsbitcoin.com%2F%2Ffor-businesses%2F
+# Useful Stuff
+* Facebook Debugger is useful for open graph debugging https://developers.facebook.com/tools/debug/og/object?q=http%3A%2F%2Fwww.sowhatsbitcoin.com%2F%2Ffor-businesses%2F
+* [Sublime-Jekyll](https://github.com/23maverick23/sublime-jekyll)
