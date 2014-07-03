@@ -16,6 +16,16 @@ Here are **drafts** of the concept below:
 
 ___
 
+#### Owl
+![current logo](/images/new-logo-owl.png "owl concept")
+
+I [prefer]({{ 'http://twitter.com/home?status=I like the owl #bitcoin concept better @sowhatsbitcoin !' | uri_escape}}) the owl concept.
+
+I like the owl concept. Here is my [feedback]({{ 'http://twitter.com/home?status=Owl @sowhatsbitcoin but ' | uri_escape}}) to improve it.
+
+
+
+
 #### Confused
 
 ![current logo](/images/new-logo-confused-bitoin.jpg "confused concept")
