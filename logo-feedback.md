@@ -43,3 +43,12 @@ ___
 I [prefer]({{ 'http://twitter.com/home?status=I like the explaining #bitcoin concept better @sowhatsbitcoin !' | uri_escape}}) the explaining concept.
 
 I prefer the explaining concept. Here is my [feedback]({{ 'http://twitter.com/home?status=Confused @sowhatsbitcoin but ' | uri_escape}}) to improve it.
+
+#### Favicons
+
+ * Current: ![](/images/favicons/favicon-16x16.png)
+ * Refined: ![](/images/favicons/favicon_refined/favicon-16x16.png)
+ * Refined 2: ![](/images/favicons/refined_2/favicon-16x16.png)
+ * Refined 3: ![](/images/favicons/refined_3/favicon-16x16.png)
+ * Refined 4: ![](/images/favicons/refined_4/favicon-16x16.png)
+ * Proposed: ![](/images/favicons/proposed/favicon-16x16.png)
