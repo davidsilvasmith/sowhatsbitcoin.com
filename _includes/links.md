@@ -3,11 +3,4 @@
 
 [ChangeTip]: http://www.changetip.com
 
-
-[hello]: (http://www.google.com)
-
-
-[another]: http://www.changetip.com
-
-
-[somethin]: http://www.something.com
+[getybitcoin]: https://playbigdesign.wufoo.com/forms/m7p5a3/
