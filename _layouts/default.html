@@ -83,7 +83,7 @@ navigation:
                         {% endfor %}
                     </ul>
                 </div>
-                    {% if page.url contains '/for-individuals/'' %}
+                    {% if page.url contains '/for-individuals/' %}
                     {% capture submenu %}{% include for-individuals-menu.md%}{% endcapture %}
                     <div class="navbar-collapse collapse">
                     <ul id="navList" class="nav navbar-nav">
@@ -108,3 +108,4 @@ navigation:
     <script src="/scripts/custom.js"></script>
 </body>
 </html>
+

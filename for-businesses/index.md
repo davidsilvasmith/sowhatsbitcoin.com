@@ -7,9 +7,13 @@ permalink: /for-businesses/
 # Bitcoin is the *fastest* most convenient way to get paid.
 
 #### It is also one of the fastest and cheapest ways to receive U.S. dollars <i class="fa fa-money"></i>
- * <i class="fa fa-shield"></i> Safely accept payment from anyone in the world. (no chargebacks)
- * <i class="fa fa-shopping-cart"></i> Integrations are easier than any other form of payment.
- * <i class="fa fa-ban"></i> Payments have no fees attached.
+ * <i class="fa fa-shield"></i> Safely accept payment from anyone in the world.
+ 	* Chargebacks are impossible with bitcoin.
+ 	* No Customer support to handle incorrect fraud.
+ 	* Eliminate the need for algorithms to identify and prevent fraud.
+ 	* Boost profit by eliminating valid sales incorrectly identified as fraudulent.
+ * <i class="fa fa-shopping-cart"></i> Integrations are easier and less labor intensive than any other form of ecommerce payment.
+ * <i class="fa fa-ban"></i> Bitcoin payments have no payment processor fees.
  * <i class="fa fa-money"></i> [BitPay](https://bitpay.com/start) eliminates bitcoin volatility risk and lets you settle in cash.
     
 #### Other ways bitcoin can help

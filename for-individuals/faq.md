@@ -14,4 +14,6 @@ How are bitcoins made?
 How are bitcoins safe?
 : Bitcoin payments can't be reversed. Bitcoins can't be counterfeit. This makes bitcoin the best way to take payment. For example if you are selling a car or a boat on Craigslist. No need to worry about getting scammed. Once you've received the payment it is yours.
 
+Is bitcoin anonymous?
+: No. A good way to think about anonymity is to think about email. On first glance it seems anonymous, but law enforcement organizations have tools to identify the owners of email accounts. Bitcoin is actually more public than email. Every bitcoin transaction is visible to everyone in the world. However a person can create as many bitcoin accounts as they want. Therefore even though the transactions are publicly visible, observers will not know who owns an account without additional information.
 
