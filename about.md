@@ -24,4 +24,6 @@ Founded by [David Smith](http://www.davidsilvasmith.com) a bitcoin educator and 
 
 David is a former [software developer](http://stackoverflow.com/users/46076/) who loves connecting with people and [Tweeting ](http://www.twitter.com/davidsilvasmith) about bitcoin.
 
+Special thanks to [Bitcoin Quotations](http://bitcoinquotations.com/) for help tracking down great bitcoin quotes!
+
 <p class="clearfix"> </p>

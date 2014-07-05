@@ -7,13 +7,16 @@ permalink: /for-individuals/
 
 {%include links.md %}
 
-<div class="wrap" markdown="1">
-![Marc Andreessen](/images/marc_andreessen_medium_again-from-gimp.jpg 'Marc Andreessen title' )
-      
-[Fortune Brainstorm TECH 2012](https://www.flickr.com/photos/fortunelivemedia/7586537746/) by Kevin Maloney/Fortune Brainstorm Tech is licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
+<figure markdown="1">
+[![Marc Andreessen](/images/marc_andreessen.jpg 'Marc Andreessen title' )](http://www.vox.com/2014/6/30/5839436/marc-andreessen-on-bitcoin)
 
->So the really new disruptive technologies come from the fringe. This was true of PCs. Steve Jobs was, like, a hippie. Internet came from the fringe. No big technology company thought the Internet was going to be important, right up until basically 1995 or 1996. - Marc Andreessen, creator of the first user-friendly web browser
-</div>
+<figcaption markdown="1">
+Photo Credit: [Fortune Brainstorm TECH 2012](https://www.flickr.com/photos/fortunelivemedia/7586537746/) by Kevin Maloney/Fortune Brainstorm Tech is licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
+</figcaption>
+
+>Like the internet, Bitcoin is a platform. It's less what can it do today, more what can it do in the future. There are thousands and thousands of things that it might make possible in the future. - Marc Andreessen, creator of the first user-friendly web browser
+
+</figure>
 
 #### <i class="fa fa-question-circle"></i> Bitcoin is like <strong>digital gold</strong>. Bitcoin is
 	

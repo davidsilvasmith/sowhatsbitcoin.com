@@ -71,44 +71,47 @@ from http://stackoverflow.com/questions/22118397/how-to-make-a-stacked-icon-have
 
 
 
-	.wrap {
+figure {
 	  position:relative;
 	  float:left;
 	  clear:none;
 	  overflow:hidden;
 	  margin-left:auto;
 	  margin-right:auto;
-	}
-	.wrap img {
+}
+
+	figure img {
 	  position:relative;
 	  z-index:1;
-	}
-	.wrap>blockquote {
-	  display:block;
-	  position:absolute;
-	  width:100%;
-	  top:0px;
-	  left:0;
-	  z-index:2;
-	  text-align:center;
-	  	color: #fff;
+}
+
+figure>blockquote, figure>figcaption {
 	background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.7);
     border-left-width: 0px;
-	}
-	.wrap+* {
-		clear: both;
-	}
+  	color: #fff;
+	left:0em;
+	position:absolute;
+	width:100%;
+	z-index:2;
+}
 
-	.wrap>p+p {
-	 color: #f00;
-	 position:absolute;
-	 width:100%;
-	 left:0;
-	 bottom: 0%;
-	 color: #fff;
-	 background: rgb(0, 0, 0); /* fallback color */
-     background: rgba(0, 0, 0, 0.7);
-     z-index:2;
-	}
+figure>blockquote {
+	top:0px;
+	text-align:center;
+    display:block;
+}
+	
+figure+* {
+	clear: both;
+}
+
+figure>figcaption {
+	 bottom: 0em;
+     font-size: .75em;
+
+     p {
+     	margin-left:1em;
+     }
+}
  
