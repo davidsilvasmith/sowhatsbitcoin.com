@@ -7,7 +7,13 @@ permalink: /for-individuals/
 
 {%include links.md %}
 
+<div class="wrap" markdown="1">
+![Marc Andreessen](/images/marc_andreessen_medium_again-from-gimp.jpg 'Marc Andreessen title' )
+      
+[Fortune Brainstorm TECH 2012](https://www.flickr.com/photos/fortunelivemedia/7586537746/) by Kevin Maloney/Fortune Brainstorm Tech is licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
 
+>So the really new disruptive technologies come from the fringe. This was true of PCs. Steve Jobs was, like, a hippie. Internet came from the fringe. No big technology company thought the Internet was going to be important, right up until basically 1995 or 1996. - Marc Andreessen, creator of the first user-friendly web browser
+</div>
 
 #### <i class="fa fa-question-circle"></i> Bitcoin is like <strong>digital gold</strong>. Bitcoin is
 	
@@ -32,8 +38,9 @@ permalink: /for-individuals/
 
 
 #### Next Steps:
-* Try bitcoin for FREE at [Try Bitcoin](https://trybtc.com/)
+* <i class="fa fa-gift"></i> Try bitcoin for FREE at [Try Bitcoin](https://trybtc.com/). There is no better way to learn than by doing.
+* <i class="fa fa-book"></i> Order your FREE copy of [Why Bitcoin Magazine][getybitcoin]. Similar to this site yBitcoin magazine will explain bitcoin in plain english.
 * <i class="fa fa-usd"></i> <i class="fa fa-long-arrow-right"></i> <i class="fa fa-btc"></i> Know how to [buy $5 worth of bitcoin](Buy/)
-* Share with everyone that you understand bitcoin. <a href="http://twitter.com/home?status=I+understand+%23bitcoin%21+Thanks+%40sowhatsbitcoin!"><i class="fa fa-twitter"></i> Twitter</a> or <a href="http://www.facebook.com/sharer.php?u=http://www.sowhatsbitcoin.com"><i class="fa fa-facebook-square"></i> Facebook</a>
-* Read the [frequently asked questions](faq/).
+* <i class="fa fa-share"></i> Share with everyone that you understand bitcoin. <a href="http://twitter.com/home?status=I+understand+%23bitcoin%21+Thanks+%40sowhatsbitcoin!"><i class="fa fa-twitter"></i> Twitter</a> or <a href="http://www.facebook.com/sharer.php?u=http://www.sowhatsbitcoin.com"><i class="fa fa-facebook-square"></i> Facebook</a>
+* <i class="fa fa-graduation-cap"></i> Read the [frequently asked questions](faq/).
 
