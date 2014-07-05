@@ -3,10 +3,10 @@ layout: default
 title: About So What's Bitcoin? Explaining bitcoin to everyone.
 permalink: /About/
 ---
-#### Why this Site?
+# Why this Site?
 Everyone should understand bitcoin's amazing potential. Most websites are full of tech jargon. The lack of plain language websites is robbing non-techies of the opportunity to understand this technology which could [change their life](http://www.businessinsider.com/man-buys-bitcoin-forgets-about-it-remembers-finds-a-fortune-2013-10).
 
-#### Four reasons to <i class="fa fa-heart"></i> Bitcoin
+# Four reasons to <i class="fa fa-heart"></i> Bitcoin
 1. Bitcoin is the easiest fastest way to send and receive money online.
 2. Bitcoin is early in its life and will potentially be valued hundreds of times higher than where it is now. Today's investors might be like the [guy](http://www.businessinsider.com/man-buys-bitcoin-forgets-about-it-remembers-finds-a-fortune-2013-10) who invested $27 into Bitcoin and had over $500,000 four years later.
 3. Bitcoin lets people do things no other form of money can. 
@@ -17,7 +17,7 @@ Everyone should understand bitcoin's amazing potential. Most websites are full o
  * Another future use case is being able to have software auto execute a will. Instead of having lawyers and probate, upon death all assets could be distributed exactly as the owner wanted within seconds of the death being recorded.
 4. Bitcoin enables micropayments. Through bitcoin it is possible to pay cents and even fractions of a cent for services. Entire new payment models will emerge. For example paying for WiFi at an airport or restaurant, paying to read articles online, all kinds of services that are ad funded could be paid directly by the consumer, aligning the incentives of the producer and consumer.
 
-#### Who created What is Bitcoin?
+# Who created What is Bitcoin?
 
 <a href="http://www.davidsilvasmith.com"><img src="http://www.gravatar.com/avatar/38c982e6a1d3ae992a40887a59748cdb?s=150" style="margin: 0px 10px 10px 10px" class="pull-left photo img-responsive img-thumbnail"></a>
 Founded by [David Smith](http://www.davidsilvasmith.com) a bitcoin educator and consultant.

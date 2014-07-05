@@ -17,7 +17,7 @@ permalink: /for-businesses/
  * <i class="fa fa-ban"></i> Bitcoin payments have no payment processor fees.
  * <i class="fa fa-money"></i> [BitPay](https://bitpay.com/start) eliminates bitcoin volatility risk and lets you settle in cash.
     
-#### Other ways bitcoin can help
+# Other ways bitcoin can help
 		
  * <i class="fa fa-bullhorn"></i> Want some publicity? Unique, interesting, or surprising usage of bitcoin will get national attention.
  * <i class="fa fa-tachometer"></i> Would micropayments provide new revenue opportunities? With bitcoin's tiny transaction fees sub dollar and even sub cent transactions are possible!
@@ -27,7 +27,7 @@ permalink: /for-businesses/
   <i class="fa fa-ban fa-stack-2x"></i>
 </span> Can't get a bank account?. No problem open a bitcoin [wallet](http://www.blockchain.info)
 
-#### Next Steps:
+# Next Steps:
 * <i class="fa fa-book"></i> Order your FREE copy of [Why Bitcoin Magazine][getybitcoin]. Similar to this site yBitcoin magazine will explain bitcoin in plain english.
 
 
