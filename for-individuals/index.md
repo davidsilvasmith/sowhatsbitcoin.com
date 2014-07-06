@@ -18,7 +18,7 @@ Photo Credit: [Fortune Brainstorm TECH 2012](https://www.flickr.com/photos/fortu
 
 </figure>
 
-# <i class="fa fa-question-circle"></i> Bitcoin is like <strong>digital gold</strong>. Bitcoin is
+# <i class="fa fa-question-circle"></i> Bitcoin is <strong>digital cash</strong>. Bitcoin is
 	
 * <i class="fa fa-bolt"></i> **Fast** - Bitcoin moves anywhere in the world as fast as email.
 

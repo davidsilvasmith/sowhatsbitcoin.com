@@ -6151,6 +6151,9 @@ figure > figcaption p {
   margin-left: 1em;
 }
 .jumbotron blockquote {
+  position: absolute;
+  top: 0em;
+  left: 0em;
   color: #fff;
   border-left-width: 0px;
   background: #000000;
