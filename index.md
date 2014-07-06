@@ -7,6 +7,8 @@ permalink: /
 <div class="jumbotron" markdown="1">
 [<span class="link_fill"> </span>](/for-individuals)
 
+Every informed person needs to know about Bitcoin because it might be one of the world’s most important developments. --*Leon Louw*
+
 #<i class="fa fa-btc"></i>itcoin is like digital gold![digital gold bar](/images/goldbar_edited.png "digital gold bar")
 
 Bitcoin can be sent anywhere in the world **instantly**, is **rare**, **counterfeit-proof**, and isn't a bureaucratic tool.
