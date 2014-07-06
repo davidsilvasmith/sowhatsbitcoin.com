@@ -4,6 +4,12 @@ title: Bitcoin frequently asked questions
 permalink: /for-individuals/faq/
 ---
 
+# Answers to Frequent Bitcoin Questions
+
+If your question isn't answered [<i class="fa fa-twitter"></i> tweet]({{ "http://www.twitter.com/home?status=#bitcoin question @sowhatsbitcoin: " | uri_escape }}) us and we'll help you out!
+
+Who made bitcoin?
+: No one knows who made bitcoin. Someone(s) going by the alias [*Satoshi Nakamoto*](http://satoshi.nakamotoinstitute.org/) released released bitcoin in 2009. It is definately strange not to know who created the best money on the planet. However most people don't know who created email. That doesn't stop email from being a vital part of today's world.
 
 Who controls bitcoin? 
 : Users of the bitcoin system control it. Bitcoin users must voluntarily accept new software changes. Another way to think about it is the way Word processing works. No one has to use a particular version of software and no one has to upgrade ever, but everyone on the same version knows they can work together. That is similar to how bitcoin works.
