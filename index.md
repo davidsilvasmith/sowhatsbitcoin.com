@@ -7,11 +7,11 @@ permalink: /
 <div class="jumbotron" markdown="1">
 [<span class="link_fill"> </span>](/for-individuals)
 
-Every informed person needs to know about Bitcoin because it might be one of the world’s most important developments. --*Leon Louw*
+>Every informed person needs to know about Bitcoin because it might be one of the world’s most important developments. --*Leon Louw*
 
-#<i class="fa fa-btc"></i>itcoin is like digital gold![digital gold bar](/images/goldbar_edited.png "digital gold bar")
+#### What is bitcoin? Bitcoin is digital cash. 
 
-Bitcoin can be sent anywhere in the world **instantly**, is **rare**, **counterfeit-proof**, and isn't a bureaucratic tool.
+Like email changed communications, bitcoin is changing commerce.
 {: .lead} 
 
 [<i class="fa fa-info-circle"></i> Learn more!](/for-individuals){: class="btn btn-lg btn-success" role="button"}
@@ -40,7 +40,7 @@ Bitcoin is the cheapest, fastest, and safest way to take bitcoin. Learn how to n
 
 ##<i class="fa fa-file-code-o"></i> For Developers
 
-Bitcoin is the easiest way to accept and move money online. Instead of days or weeks it can take hours from starting a payment integration to accepting customer funds.
+Bitcoin is the easiest way to accept and move money online. Say goodbye to days or weeks of the usual painful ecommerce coding integrations. Bitcoin integrations are measured in hours from starting a payment integration to accepting customer payments.
 
 [Learn more >>](/for-developers){: class="btn btn-primary" role="button"}
 </div>
