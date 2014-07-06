@@ -7,7 +7,7 @@ permalink: /
 <div class="jumbotron" markdown="1">
 [<span class="link_fill"> </span>](/for-individuals)
 
-![bitcoin moves money around the world](/images/bitcoin-around-the-world.gif 'bitcoin moves money around the world' )
+![bitcoin moves money around the world](/images/bitcoin-around-the-world.png 'bitcoin moves money around the world' )
 
 >Every informed person needs to know about Bitcoin because it might be one of the world’s most important developments. --*Leon Louw*
 
