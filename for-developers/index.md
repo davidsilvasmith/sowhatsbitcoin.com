@@ -8,7 +8,7 @@ permalink: /for-developers/
 [![Bill Gates](/images/bill-gates2.jpg 'Bill Gates' )](http://video.foxbusiness.com/v/2359385547001/mungerbuffett-disagree-on-corporate-tax-rates/#sp=show-clips)
 
 <figcaption markdown="1">
-Photo Credit: [Steve Jobs and Bill Gates](https://www.flickr.com/photos/joi/522695099/in/photolist-NbX3t-wW4FP-6tscV-7E2Fao-hx6W9-6tscU-hx6Wa-93k5-9xTykJ-dJVDdL-8BuYVD-8By6uW-83iDeD-6tscT-dq9qU5-8L7JKA-8By6DA-9dR7Zh-8weRz5-9dN4dg-8L4jUP-dJQcve-6x7S4M-5Xu8av-4NUc-8wbQdT-9T2L8e-sn9wr-8BuYUe-8FDxBW-4qiQWS-4LLQ-6Xstdf-4p13Ry-9T2Ucr-6x7S3D-bfBSDa-9p72i2-7z814x-6tscX-7ht7Vx-7CoRZF-bmeHwp-bmeHKp-4tF3nu-66NNXY-25uuDu-8BuYYD-5Ywzvj-6tscW/) by Joi Ito is licensed under [CC BY- 2.0](https://creativecommons.org/licenses/by/2.0/)
+Photo Credit: [Steve Jobs and Bill Gates](https://flic.kr/p/NbX3t) by Joi Ito is licensed under [CC BY- 2.0](https://creativecommons.org/licenses/by/2.0/)
 </figcaption>
 
 >Bitcoin is a technical tour de force. -*Bill Gates*
