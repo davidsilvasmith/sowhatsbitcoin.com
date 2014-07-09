@@ -20,6 +20,10 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3294"
+       is_visible="true" />
     <filter
        id="filter5386"
        inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
@@ -1629,15 +1633,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41012193"
-     inkscape:cx="491.52369"
-     inkscape:cy="383.32075"
+     inkscape:cx="406.27691"
+     inkscape:cy="483.51043"
      inkscape:document-units="px"
-     inkscape:current-layer="g4428"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1210"
      inkscape:window-height="757"
-     inkscape:window-x="65"
-     inkscape:window-y="3"
+     inkscape:window-x="92"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -1662,30 +1666,6 @@
        id="path2996"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccscccccsccccssscscccccsccccccccscssccccccsssscccccccccssscccccccccccccccccccsscsscssssscccscccccccccscsccccccccccccccccccccccccccccccccccccccccccccscsscsccccccsccccccccccccccccccccccscccsccccccccccccccccccscccccscccccccccsccccccccssccccscccsscsscccscsccccccsccccsccccscccsccccccsscscccsccccssccccccccccccccccscccccccccccccccsccccccccccsccssccccccccccscccccccssscccsccscsscccsssccccccccccsccccccccccccccscccscccccccccccccccccscccccccccccscscccccccccsssccccssssccscccccccccccccscsccscccccsccccccccccccccccsccccscssccccsccscccccccccccccccccccsscccccccccccsssccccccccscccccscccccccscccccccccccccccscccccccccccccccccccccccccccccccccccccccccccsssccccccccssccccsccccscccssccccccccccccccccccccccccccccccccccccsccccccccccsccsscccccccccccccccccccsccccssscccccccccccccccccscscssccccccccsccccccccccccccccccsccccccccscccccccccsccccccccccsccccccccccsccccccccccccsscsccssscccssccscccsscccccccccccccccccccccccccccccsccsccccccccccccccccccccssccccccsccccccccccccccccccccccsccccccccccccccccsscccccsccccsscccsccccsccccccssccccsccccccccccccccccccccccccccccccccccsccccccccccsscccccccccsscccccccccscscccccccccccccscscccccccsccsccsccsscccccccccscsccccsscccccsscccccccccccccsscccccccccscssccccccccccccccccccccccccscccsscccccssscccccccscccscccccscccccscccscscccccccccccsccccccccccccscccccccccsccccccccssscccccccccscscccccccccsssccsscsscccccccccccccccccccccccscscccccsccsscccccccccccccsccccssccccccsccccscccccccccsscccccscscccsscccccccsscccccccccccccccssccccscccsssccsccsccccccsccccccccsccccccsscccccccssccccccccccccccccccccsssssccccccssccccccsccscccccscccsccccccssscccccccccsccccsccccccccccccccccccccccccccccccccccccccssccccscccccccscccccccscsscccccssccccccccccccccccccccccccssccsscccccccccccccccccccscccccccccccccccccccccsccccccccccsccssccccccccccscccccccccscccccccssscccccccccccscccccccccccccccccscccccsssccssscccsscccsscccccccccscccssscsscsscccccccccccccscccccccccccccccccccccsscccccccccccccccccccccccccccccccccccccccccccscccsscccccccccccccccccccsccccscccccccccccccccccccccccccssccccccsccccccccccccccsssccccscsscccsccccccccccscccccsccccssccccscccccsccccccccccccsccccccccsssccsscccccccccscscccccccccsccccccccccccccssccccccccccccccccccccccccccccscscccccsccccccccccscscscsccscssccccccccccsccccccccccccccccsscccsccccccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccssscccscccccccscccccccccccccccscsccccccccccccccccccccccccccsscccccccccccccssccccccccccccccccccccccccccccsccccccccccccccccsccccccccccccccccccccccccccccccccccccccccsccccscccccccccccccccccsccccccccccsccccsccccccccccccccccccccccccccccccccccccccccccccscccccsccccscsscccccccccccssccsccccccccccccsccsscccccccccccccccscccccccsccccscccccccccccccccccccccccccsccccccccccssccccccsccccccscccccccccccccccccccccsscccssscccccccssccccscccsccccsscccccsccscccscccccssccccscccccscccccccccssccccccccsssccccscccccccccsccccccccccccccsccscccccccccssccccccccccscscccccccssccccscccccccccssccsccccccscccccccccccccccccccsccccccscccccccccccccccccccccccccsscccccccsscccccccccccccsccccccssscccccccccccccccccccccccccsscccsscccsscccccccccccccccccccscscssccccccccccccccscscccccccccccccccccccccccccsscssscccssscsccccccsssssscsccccsscsscccscscccccccccccccscssccccccccsccccccccccccccccccccccccccscccccccccsccccccccccccscssccccccsccccccccccccsccccccscccsscccssccccccsscsscsccccccscccccccccccccccccccccccccccccccccccsssscccccccccccccccscccccccccsssccccscccccccccsscssccccccccsccccscccsccccccccccccccccccccccccccscccccccccccccccccssccccccccccccccccsscsssccccccccccccsccccssccccccssccccccccccccscccccccccccccccccsscccsscccssccccccccccsccccccccccccccccccccccccccccccccccccccccccccccscsccccccscccccsccscccccccccccccccscccsscccccccccccccccccccccccccccccssccccccsccccccsscccccccccccccccccccccccscssccccccccccccccccccscscccccccccccccccssssscccccccccccccccccccccccccsccccsccccccscccccccsccccccccccccccccccccccscccccsscccscsccccccccsccccscccccccccccccccccccccscccccccccccccccccccsscccccccscccccscccccccccccssccccccccssccscccscsscccccccccsccccccccccccccccccccsscccccccccccccccccccccccccccccsscsccccccccccccccccccccccccccscsccccccccscccccccccccccccccccccccccccscccscscscscccccccccccsccccccccccccccccccccccccccccssccssccssccccccccccccccccsscsccssscccsccccsscccccccccssscsscsccscccccssccccsccssccccscccccccscccccccccsccccssccccscccccccccccccccccccscccccccccccccccccccccccccccscccccccscsccccccccccccccccccccsccccccccscccccsccccccccccccccccsscccccccssccccccssccscccccccccsscsscsccssccccccccsccccccccccccccccccccccssccccccccccccccssccccccccccccccccccccccscscccccccccccccccccccccsscccccccccccccccccccsccscscccccccccccccsscccccccccccccsccccssscsscccccscscsssccccccccccccccccccccsccccsccccccccccccccccscsscccccccccsccccccscccccccssccccccccsccccccscssccccccccccccccccccsccccccccccccccccccccccscscccccccccccccccccccscccccscscccsscssccscccsccsscccccccccccccccccccsscccccsssccccccccccscccccssccccccccsccccccccccccccccsscccccccscsssscccccsccccsccsscccccscccccccccscccccscccccccccccccscsccccccccccccccccssccccsccccccccccccssscccsscccsccccscscccccccccccccsscscccccccsccccccsccscscsccccccccccccccccscccccccsccscccccccccccccccccccccccsccccccccccccscscccccccccccccccccccccsccccccccccscccccccccsscsccccsccscscscssccsscccscsccccccccccccscscsssccccccccccccccccccsscccccssscsccccccccsscsscccscscccccccccccsccccccccsccsccccccccccccccccccccccccccssccccccccccccscssscccccsscsscccsccccccsccccccccccccccscccccccssccccsscccccccccccccccccsccccccccscccccccsscscsscccccsccccccsscscccccccccccccccsscccssscsscccccssccsscccccccccccccccsccscssccccscccccccccccccccccccccccccccccccccccccscccccccccscsscccccccccssssccccsccscccscccscccccccscsccccccccccccsscscscssccccccccccccccccccscccssccscssccccccsscccssccccccccccccccccccccsscccsssccccccscccccccccscccccccccssccccccccccccccccccscccssccccccsccccssccccsccccccccccccccssccccccscccssccccsccscccsssccccccccscccccccsssccccccccccccscscssccccccsscsscccccsscccsscccccscsccccccccccccccccsscsscccsccccscccccccsscccssccccccssccccccccsccccccccccccssccccccccscsscccccccccccsccccccccccsccccscccccccsscccccccccccccscccccccccccccccssscssccscccscccccccsscsccsssccccscccccccsccsccccsscssccccccsccscccccccsscsccccccsssccccccccccccccccsccccccccccccccccsccccccccccccccccccsccccccccsccccsccccsscccscccccccccsscccsccccccccccccccccccccccscssssccccccccccccccccccccscccccccccccccccccccssccsccscccccscccccccccccccccccccccccccccccscccsscccccccccccccccccscccccccccccccccccccccssscccscccccccccssccccccccscccccsscccscccccccccccccccscccccscccccccccccccccccccccsccccscccccssccccscccsscscccccccccccccccccccccccccccsccccccccccccccccccccccccscccccccccccsccccsccccccsccccccsccccccccccccccccsscccccscccccsscscsccccsccccccsccccccccccccccsccccsccccccccsccccccccccccccssccccccccccccccccccccccsscccccccccccccccccccccccccccccccscccccccccccccccccccccsccccccscccccccscccccccccscccccccssscccccccscccccccccccccccccccsccssccscccccccccccccssccccccccccccccscccccccccccccccccccccccccsccsscccccccccccccccccccscccccsccscsccccsccsccccsccccccsccccsccccccccccccccccssccccccscccccccccccccccccsccccsscccscccccccccccccccccccccccsccccccsccccsccccccccscccccccccccssccccccccccccccccccccccccccsccccccccccsscccccccccccccccccccccccccccccccccccscccscccccccccccccccccccccccccccccccscccsscccscccccccccscccccccccccccsccccccccccccccccccscccccccccccccccsscccccccccccccccsccccccccccccccssscccccccscsccscccccccssccccccccccccccccccccccsscsscssccscccccccscsccccccccscccccccccccccccccccccscccccccccccccccccccscccsccccccsscccccccccscccccccccccccccccccccccccscccccccsscccccccccccccccccssscccccccsscccccccscccccccccccccccccccccscccsccccccccccscccccccsssccccccsssccccccccscsscccccccccsssccccccsccccscccccccccscccccccccccccccccccccccccccccssccccscccccsccccccccsccccccsscsccccccccccccsccccccccccscccsccccccccccccccccccccccccccsccccccccccccccccccccccccscccsccccccccsccsscccccccsscccccccccccscccccccccccccccccccccccccccscccccccccccccccscsccccccccccccsscccccccsscccccssscccccccccscccsccccsccccccccccscccccccsccsccccsccccccccccccccccccsccccccccsscccsccccccsccccccccccccccsccsccccccccccccssssscssccccccsccccccscsscccccccccssccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccscssccccccccsccccccscccccccccscccccccccccsccccccccccccccccccccccccccccccccsccccccccccccccsccccccccsccccccccccccccsscccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccsccsccccccccccccccccccccccsccccsscccccccccsccccccsscccccccccccccccccccscccccsscsscccccccccccccsccccccccssccccsccccccccccccccccccccccccscccscsscccccccsccscccscccccccccccccccccccccccscccccccccscsccccssccccsccccccccscccscccccccccccccccccccccccccccccccccsscccccccccccccccccccccccccccsccccccssccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccsccccccccccsccccccscccccccccccccccsscsccccccccccccccsccccccsccccccccccccccccssccccccccccccccsccccccccccccccscccccsscccccccccccscccccccccccccccccsccccccsssscsscsscccccccccccsccssccccccccccccsscccscccccccccccccscccccccccccccccccccccccscccccccccccccccccccccccccccccccsscssccsccccccscccccccc" />
-    <path
-       style="fill:#ff0000;fill-opacity:1;stroke:none"
-       d="m 169.87429,645.16045 c 23.0267,6.04246 45.30024,18.90217 60.76972,36.84204 26.27656,30.47279 34.92215,72.83582 46.71713,111.30563 4.44737,14.50529 6.52977,31.25964 8.93624,44.62944 0.69205,3.10312 8.24505,-1.60347 9.32658,0.53582 4.90736,9.70687 -19.48957,27.64539 -19.48957,27.64539 0,0 -18.69973,-12.3989 -19.4519,-20.41488 -0.45736,-4.96516 8.96396,-0.0106 8.64714,-4.97277 -0.91414,-14.82796 -8.62334,-36.26401 -14.61385,-53.88352 -10.37204,-30.50664 -16.21506,-64.59984 -36.80662,-89.38335 -14.28803,-17.19673 -33.20696,-33.80991 -56.29248,-36.46964 -10.85765,-3.62966 6.1554,-10.57434 9.80838,-13.8931 0.84003,-0.61636 1.66109,-1.25931 2.44923,-1.94106 z"
-       id="path2998"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="caacscccaaccc" />
-    <path
-       style="fill:#ff0000;fill-opacity:1;stroke:none"
-       d="m 298.79926,876.26883 c 37.77303,-33.69476 68.33646,-78.18573 113.61031,-100.88634 39.60042,-19.85591 85.89694,-28.6652 130.15909,-26.8452 16.14204,0.66374 33.60976,3.02176 46.50394,13.65423 6.83148,6.01396 9.6295,12.98748 18.56794,10.22824 7.21332,-2.22671 -2.19444,31.38125 -2.19444,31.38125 0,0 -31.82974,-3.4774 -29.45449,-5.93471 9.0248,-9.33659 3.08219,-13.45976 0.91995,-15.09433 -6.38738,-4.72544 -11.74948,-10.96392 -19.12345,-13.53656 -21.94813,-7.65731 -46.5336,-6.49178 -69.62969,-3.8601 -10.7461,1.22446 -21.16804,4.90484 -31.16265,9.03834 -16.22821,6.71156 -31.60404,15.5614 -46.18357,25.35104 -31.25368,20.98575 -59.16609,43.06511 -87.77255,71.0685 -6.82876,4.37955 -17.03861,1.82507 -24.24039,5.43564 z"
-       id="path3000"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="caacscscaaaacc" />
-    <path
-       style="fill:#ff0000;fill-opacity:1;stroke:none"
-       d="m 614.40538,800.92183 c 3.31561,-21.99612 19.28936,-38.86206 27.32354,-59.02581 12.97633,-24.10135 35.64327,-42.35284 59.71309,-54.44245 18.04273,-9.06237 39.42819,-14.04296 59.46305,-11.53879 8.60671,1.07576 16.70786,5.59347 23.5386,11.09184 6.83074,5.49838 6.75199,26.06123 17.43698,20.4052 1.08208,10.70759 -6.21201,24.54973 -6.21201,24.54973 0,0 -28.36862,-3.50114 -24.60714,-6.65763 8.98062,-7.53622 -0.0701,-18.68494 -6.49441,-23.83792 -12.18868,-9.77663 -32.17666,-7.65621 -46.82327,-2.21349 -31.99564,11.88966 -48.59522,27.4571 -74.30676,70.45759 -4.11981,8.474 -4.82042,20.33758 -14.6459,24.54743 -4.76426,2.27751 -9.72569,4.16624 -14.38577,6.6643 z"
-       id="path3002"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccaasccsaaccc" />
-    <path
-       style="fill:#ff0000;fill-opacity:1;stroke:none"
-       d="M 810.3405,713.17772 C 788.82116,597.4047 640.09672,570.07752 538.46821,561.09354 c -46.46029,-4.1071 -89.89542,-4.6875 -133.88507,2.89761 -40.35923,6.95911 -79.97312,20.3743 -116.63264,38.6329 -12.48416,6.21785 -22.26765,16.78999 -34.43008,23.77417 -12.50392,4.97425 -11.44831,5.9969 -9.49284,16.22709 -12.25975,2.88113 -31.08106,1.41245 -31.08106,1.41245 0,0 8.7334,-27.70984 11.59282,-29.68861 9.84229,10.09686 12.6013,1.53711 22.33571,-5.14937 27.90108,-17.20833 57.31611,-44.93067 91.1173,-56.57601 38.78158,-13.36121 81.32665,-13.90751 122.34014,-13.25465 80.28077,1.27794 162.60551,7.42021 238.52433,33.55385 30.6662,10.55628 61.19834,25.83556 84.27611,48.623 19.31849,19.07545 41.59237,70.02691 41.59237,70.02691 0,0 -1.353,14.10891 -9.7716,19.06415 -1.53773,0.8469 -3.07547,1.69379 -4.6132,2.54069 z"
-       id="path3032"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csaacccccaaaaccc" />
     <g
        id="g4428"
        transform="translate(-99.970269,1.2191496)">
@@ -1716,5 +1696,103 @@
            x="102.41474"
            sodipodi:role="line">   60 minutes, 4 International Transfers. No Problem.</tspan></text>
     </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 314.31603,862.39324 C 393.21675,689.05611 596.55172,802.36216 596.55172,802.36216"
+       id="path4164"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0.50000000000000000;stroke-opacity:1;stroke-dasharray:none"
+       id="path4798"
+       sodipodi:sides="3"
+       sodipodi:cx="380.37469"
+       sodipodi:cy="430.79779"
+       sodipodi:r1="28.040442"
+       sodipodi:r2="14.020221"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 380.3747,402.75735 12.14186,21.03033 12.14187,21.03033 -24.28374,0 -24.28373,0 12.14187,-21.03033 z"
+       transform="matrix(0.51150699,0,0,0.49390789,408.0004,593.12442)"
+       inkscape:transform-center-y="-3.4623508" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 636.2069,315.82758 C 690.51724,96.862068 781.89656,230.48276 781.89656,230.48276"
+       id="path4800"
+       inkscape:connector-curvature="0"
+       transform="translate(0,481.36217)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:transform-center-y="-1.0645116"
+       transform="matrix(0.4790235,0.17937638,-0.17320469,0.46254204,678.84569,449.8659)"
+       d="m 380.3747,402.75735 12.14186,21.03033 12.14187,21.03033 -24.28374,0 -24.28373,0 12.14187,-21.03033 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.52359878"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="14.020221"
+       sodipodi:r1="28.040442"
+       sodipodi:cy="430.79779"
+       sodipodi:cx="380.37469"
+       sodipodi:sides="3"
+       id="path4813"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0.50000000000000000;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:transform-center-x="2.4283633" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 809.51536,228.41895 C 657.12165,-65.396109 224.32353,149.17423 224.32353,149.17423"
+       id="path4815"
+       inkscape:connector-curvature="0"
+       transform="translate(0,481.36217)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:transform-center-y="-2.76229"
+       transform="matrix(0.50843829,0.0559456,-0.05402071,0.49094477,46.831301,400.53702)"
+       d="m 380.3747,402.75735 12.14186,21.03033 12.14187,21.03033 -24.28374,0 -24.28373,0 12.14187,-21.03033 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.52359878"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:r2="14.020221"
+       sodipodi:r1="28.040442"
+       sodipodi:cy="430.79779"
+       sodipodi:cx="380.37469"
+       sodipodi:sides="3"
+       id="path4817"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0.50000000000000000;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:transform-center-x="0.75737862" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 165.51724,172.72413 c 85.34483,17.24138 119.82759,202.58622 119.82759,202.58622"
+       id="path4819"
+       inkscape:connector-curvature="0"
+       transform="translate(0,481.36217)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:transform-center-x="1.7016031"
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:4.99969739999999963;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none"
+       id="path4821"
+       sodipodi:sides="3"
+       sodipodi:cx="380.37469"
+       sodipodi:cy="430.79779"
+       sodipodi:r1="28.040442"
+       sodipodi:r2="14.020221"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 380.3747,402.75735 12.14186,21.03033 12.14187,21.03033 -24.28374,0 -24.28373,0 12.14187,-21.03033 z"
+       transform="matrix(0.34874719,0.37418552,-0.36131115,0.33674806,310.21242,576.51767)"
+       inkscape:transform-center-y="2.1826733" />
   </g>
 </svg>
