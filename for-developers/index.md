@@ -4,6 +4,7 @@ title: Bitcoin for Developers
 permalink: /for-developers/
 ---
 
+<div style="text-align:center" markdown="1">
 <figure markdown="1">
 [![Bill Gates](/images/bill-gates2.jpg 'Bill Gates' )](http://video.foxbusiness.com/v/2359385547001/mungerbuffett-disagree-on-corporate-tax-rates/#sp=show-clips)
 
@@ -14,6 +15,7 @@ Photo Credit: [Steve Jobs and Bill Gates](https://flic.kr/p/NbX3t) by Joi Ito is
 >Bitcoin is a technical tour de force. -*Bill Gates*
 
 </figure>
+</div>
 
 # Bitcoin is a breakthrough that can change your **career**.
 

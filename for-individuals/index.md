@@ -7,6 +7,7 @@ permalink: /for-individuals/
 
 {%include links.md %}
 
+<div style="text-align:center" markdown="1">
 <figure markdown="1">
 [![Marc Andreessen](/images/marc_andreessen.jpg 'Marc Andreessen' )](http://www.vox.com/2014/6/30/5839436/marc-andreessen-on-bitcoin)
 
@@ -17,6 +18,7 @@ Photo Credit: [Fortune Brainstorm TECH 2012](https://www.flickr.com/photos/fortu
 >Like the internet, Bitcoin is a platform. It's less what can it do today, more what can it do in the future. There are thousands and thousands of things that it might make possible in the future. - *Marc Andreessen*, creator of the first user-friendly web browser
 
 </figure>
+</div>
 
 # <i class="fa fa-question-circle"></i> Bitcoin is <strong>digital cash</strong>. Bitcoin is
 	
