@@ -20,6 +20,8 @@ navigation:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Helping everyone learn what bitcoin is and how it can benefit them, how they can buy bitcoins and how they can use bitcoins.">
     <meta name="author" content="David Silva Smith">
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     <link rel="shortcut icon" href="/images/favicons/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-touch-icon-114x114.png">
@@ -94,15 +96,19 @@ navigation:
             </div>
         </div>
         {{ content }}
+
         <hr />
         <div style="text-align:center">
             Like? Spread the word! Help through <a href="http://twitter.com/home?status=I+understand+%23bitcoin%21+Thanks+%40sowhatsbitcoin!"><i class="fa fa-twitter"></i> Twitter</a>, <a href="http://www.facebook.com/sharer.php?u=http://www.sowhatsbitcoin.com"><i class="fa fa-facebook-square"></i> Facebook</a>, or <a href="https://blockchain.info/address/1GYcJRmyntZhsUJK3KurNSuev5aX4a3DSx"><i class="fa fa-qrcode"></i> donating</a> bitcoin. 
         </div>
+
         <hr />
         <div>
             <h3 style="text-align:center">This site made possible through: </h3>
            {% include sponsors.html%}
+       </div>
         <span>© {{ site.time | date: "%Y" }} Cash on Cryptos LLC</span>
+    </div>
     <script src="/scripts/jquery-1.8.2.min.js"></script>
     <script src="/scripts/bootstrap.min.js"></script>
     <script src="/scripts/custom.js"></script>

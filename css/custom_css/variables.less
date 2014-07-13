@@ -12,7 +12,7 @@
 // -------------------------
 
 @gray-darker:            lighten(#000, 13.5%); // #222
-@gray-dark:              #9f712b;   // #333
+@gray-dark:              @baseBorder;   // #333
 @gray:                   #cfa050; // #555
 @gray-light:             #d3a358;   // #999
 @gray-lighter:           #e0c19a; // #eee
@@ -30,7 +30,7 @@
 // -------------------------
 
 @body-bg:               transparent;
-@text-color:            @gray-dark;
+@text-color:            #111;
 
 // Links
 // -------------------------
@@ -41,20 +41,20 @@
 // Typography
 // -------------------------
 
-@font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+@font-family-sans-serif:  'Roboto', sans-serif;
 @font-family-serif:       Georgia, "Times New Roman", Times, serif;
 @font-family-monospace:   Monaco, Menlo, Consolas, "Courier New", monospace;
 @font-family-base:        @font-family-sans-serif;
 
-@font-size-base:          16px;
+@font-size-base:          18px;
 @font-size-large:         ceil(@font-size-base * 1.25);
 @font-size-small:         ceil(@font-size-base * 0.85);
 
-@line-height-base:        1.428571429; // 20/14
+@line-height-base:        1.6; // 20/14
 @line-height-computed:    floor(@font-size-base * @line-height-base); // ~20px
 
-@headings-font-family:    @font-family-base;
-@headings-font-weight:    500;
+@headings-font-family:    'Roboto Condensed', sans-serif;
+@headings-font-weight:    900;
 @headings-line-height:    1.1;
 
 // Iconography
@@ -100,7 +100,7 @@
 @table-bg-hover:                     #f5f5f5;
 @table-bg-active:                    @table-bg-hover;
 
-@table-border-color:                 #9f712b; // table and cell border
+@table-border-color:                 @baseBorder; // table and cell border
 
 
 // Buttons
@@ -621,7 +621,7 @@
 // Large screen / wide desktop
 @container-lg-desktop:        ((1140px + @grid-gutter-width));
 
-@font_color: #00146d;
+@font_color: @text-color;
 @font_size: 15px;
 
 body {
