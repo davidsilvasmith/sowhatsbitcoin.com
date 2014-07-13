@@ -4,6 +4,7 @@ title: Bitcoin is the fastest most convenient way to get paid.
 permalink: /for-businesses/
 ---
 
+<div style="text-align:center" markdown="1">
 <figure markdown="1">
 [![Expedia](/images/expedia2.jpg 'Expedia' )](http://blogs.marketwatch.com/thetell/2014/06/11/expedia-now-accepts-bitcoin-for-hotel-bookings/)
 
@@ -15,6 +16,7 @@ Photo Credit: [Expedia Hawaii Promo](https://flic.kr/p/3icAP6) by Shibby777 is l
 -*Michael Gulmann*, Expedia VP of Global Product
 
 </figure>
+</div>
 
 # Bitcoin is the *fastest* most convenient way to get paid.
 

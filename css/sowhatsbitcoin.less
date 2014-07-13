@@ -71,16 +71,16 @@ from http://stackoverflow.com/questions/22118397/how-to-make-a-stacked-icon-have
 
 figure {
 	  position:relative;
-	  float:left;
 	  clear:none;
+	  display:inline-block;
 	  overflow:hidden;
 	  margin-left:auto;
 	  margin-right:auto;
+	  text-align: center;
 }
 
 	figure img {
 	  position:relative;
-	  z-index:1;
 }
 
 figure>blockquote, figure>figcaption {
@@ -98,12 +98,11 @@ figure>blockquote {
 	top:0px;
 	text-align:center;
     display:block;
+    p {
+		font-size:1em;
+    }
 }
 	
-figure+* {
-	clear: both;
-}
-
 figure>figcaption {
 	 bottom: 0em;
      font-size: .75em;
