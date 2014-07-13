@@ -1,6 +1,6 @@
 ---
 layout: default
-title: So What's Bitcoin? Explaining bitcoin to everyone.
+title: So What's Bitcoin? Explaining bitcoin in plain English.
 permalink: /
 ---
 
