@@ -19,8 +19,10 @@ gulp.task('less', function () {
     .pipe(gulp.dest('./css'));
 });
 
+var formats = ['images/**/*.png', 'images/**/*.jpg', 'images/**/*.svg'];
+
 gulp.task('crush', function () {
-    return gulp.src('./images/**/*')
+    return gulp.src(formats)
         .pipe(imagemin({
             progressive: true,
             svgoPlugins: [{removeViewBox: false}],
