@@ -18,8 +18,9 @@ I agree with [Bruce Fenton](http://www.fentonreport.com/news/bitcoin-why-engage-
 Prevent the BitLicense:
 
  1. Support (retweet, share, etc.) media discussing the BitLicense problems.
- 2. Find your elected representatives by [zip code](http://votesmart.org/).
- 3. Write or call them to express your concerns about this infringement on interstate commerce. Here is an example statement:
+ 2. Sign this change.org [petition](http://www.change.org/petitions/governor-andrew-m-cuomo-and-the-new-york-state-legislature-stop-bitlicense-from-harming-small-businesses-and-tech-innovation-in-ny) asking NY Governor Andrew Cuomo to stop the BitLicense from harming small businesses.
+ 3. Find your elected representatives by [zip code](http://votesmart.org/).
+ 4. Write or call them to express your concerns about this infringement on interstate commerce. Here is an example statement:
 
 	 > As a concerned member of your district I'm writing you about the BitLicense proposed by New York's department of financial services.
 	 >
@@ -27,7 +28,7 @@ Prevent the BitLicense:
 	 > 
 	 > I'm further concerned that other states or countries will follow New York's lead and attempt to pass their own regulations further increasing compliance costs and stifling small businesses like mine with burdensome expenses that do nothing but hinder innovation and eliminate jobs.
 
- 4. Express your concerns to New York governor Andrew Cuomo [here](http://www.governor.ny.gov/contact/GovernorContactForm.php). Here is an example statement:
+ 5. Express your concerns to New York governor Andrew Cuomo [here](http://www.governor.ny.gov/contact/GovernorContactForm.php). Here is an example statement:
 
 	 > Governor, I am concerned about the proposed NYDFS BitLicense, it's impact on my ability to service New Yorkers, and it's constitutionality.
 	 >
