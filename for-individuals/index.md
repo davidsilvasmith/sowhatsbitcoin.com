@@ -64,9 +64,8 @@ Here are seven reasons bitcoin is the best form of money:
 
 
 # Next Steps:
-* <i class="fa fa-gift"></i> Try bitcoin for FREE at [Try Bitcoin](https://trybtc.com/). There is no better way to learn than by doing.
 * <i class="fa fa-book"></i> Order your FREE copy of [Why Bitcoin Magazine][getybitcoin]. Similar to this site yBitcoin magazine explains bitcoin in plain English.
-* <i class="fa fa-usd"></i> <i class="fa fa-long-arrow-right"></i> <i class="fa fa-btc"></i> Know how to [buy $5 worth of bitcoin](Buy/)
+* <i class="fa fa-usd"></i> <i class="fa fa-long-arrow-right"></i> <i class="fa fa-btc"></i> Know how to [buy $5 worth of bitcoin](buy/)
 * <i class="fa fa-share"></i> Share with everyone that you understand bitcoin. <a href="http://twitter.com/home?status=I+understand+%23bitcoin%21+Thanks+%40sowhatsbitcoin!"><i class="fa fa-twitter"></i> Twitter</a> or <a href="http://www.facebook.com/sharer.php?u=http://www.sowhatsbitcoin.com"><i class="fa fa-facebook-square"></i> Facebook</a>
 * <i class="fa fa-graduation-cap"></i> Read the [frequently asked questions](faq/).
 
