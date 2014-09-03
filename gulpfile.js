@@ -52,7 +52,7 @@ gulp.task('spellcheck', function () {
       		return '';
     	}
 	  }];
-    var a = gulp.src(process.env.TMPDIR + '/**/*.html')
+    var a = gulp.src(process.env.TMPDIR + '/jekyll/**/*.html')
     	.pipe(frep(patterns))
         .pipe(spellcheck(({replacement: '<<<%s (suggestions: %s)>>>'})))
         .pipe(frep(nonSuggestions))
