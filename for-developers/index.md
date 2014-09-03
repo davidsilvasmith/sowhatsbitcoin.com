@@ -4,6 +4,8 @@ title: Bitcoin for Developers
 permalink: /for-developers/
 ---
 
+{%include links.md %}
+
 <div style="text-align:center" markdown="1">
 <figure markdown="1">
 [![Bill Gates](/images/bill-gates2.jpg 'Bill Gates' )](http://video.foxbusiness.com/v/2359385547001/mungerbuffett-disagree-on-corporate-tax-rates/#sp=show-clips)
@@ -26,7 +28,7 @@ Bitcoin is a computer science break through. Bitcoin's core innovation is a dist
     
 1. Satoshi's 8 page [whitepaper](https://bitcoin.org/bitcoin.pdf) gives a concise explanation of bitcoin.
 2. Buy $5 worth of bitcoin at [Coinbase](/for-individuals/buy/)
-3. The company Blockchain.info has an easily consumable [API](https://blockchain.info/api) to program against. Incidentally most consumer facing companies like [Coinbase](http://www.coinbase.com) and [BitPay](http://www.bitpay.com) have APIs as well
+3. The company Blockchain.info has an easily consumable [API](https://blockchain.info/api) to program against. Incidentally most consumer facing companies like [Coinbase] and [BitPay] have APIs as well
 4. [Let's Talk Bitcoin](http://letstalkbitcoin.com/) is a great podcast to stay up to date on bitcoin and digital currency developments.
 
 # Getting Help
