@@ -38,7 +38,7 @@ Here are seven reasons bitcoin is the best form of money:
 
 2. <i class="fa fa-magic"></i> **Low-Cost** - Bitcoin transactions cost almost nothing. Using a free [Coinbase] web-wallet, transactions are actually FREE. Companies around the world spend tens of billions to process transactions and individuals spend $50 billion to remit money every year. This is a *big* deal!
 
-3. <i class="fa fa-key"></i> **Total control** - bitcoin empowers you. If you want to send bitcoins to a child in Africa, donate to a charity, or your friend across the street, no one can stop you. There is no bank, politician, credit card processor, or other group to stop you. You have complete control over your bitcoins. Many people don't realize the US
+3. <i class="fa fa-key"></i> **Total control** - bitcoin empowers you. If you want to send bitcoins to a child in Africa, donate to a charity, or your friend across the street, no one can stop you. There is no bank, politician, credit card processor, or other group to stop you. You have complete control over your bitcoins.
 
 4. <i class="fa fa-money"></i> **Counterfeit-proof** - Bitcoin is the safest way to get paid. Bitcoins cannot be counterfeit and payments cannot be reversed. Many criminals will be out of a job when bitcoin becomes mainstream.
 
