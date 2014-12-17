@@ -4,6 +4,7 @@ title: Bitcoin is the fastest most convenient way to get paid.
 permalink: /for-businesses/
 ---
 
+{%include links.md %}
 <div style="text-align:center" markdown="1">
 <figure markdown="1">
 [![Expedia](/images/expedia2.jpg 'Expedia' )](http://blogs.marketwatch.com/thetell/2014/06/11/expedia-now-accepts-bitcoin-for-hotel-bookings/)
@@ -29,7 +30,7 @@ Photo Credit: [Expedia Hawaii Promo](https://flic.kr/p/3icAP6) by Shibby777 is l
 
  * <i class="fa fa-shopping-cart"></i> Integrations are easier and less labor intensive than any other form of ecommerce payment.
  * <i class="fa fa-ban"></i> Bitcoin payments have no payment processor fees.
- * <i class="fa fa-money"></i> [BitPay](https://bitpay.com/start) eliminates bitcoin volatility risk and lets you settle in cash.
+ * <i class="fa fa-money"></i> [BitPay][BitPay] eliminates bitcoin volatility risk and lets you settle in cash.
     
 # Other ways bitcoin can help
 		
@@ -45,7 +46,7 @@ Photo Credit: [Expedia Hawaii Promo](https://flic.kr/p/3icAP6) by Shibby777 is l
 * <i class="fa fa-book"></i> Order your FREE copy of [Why Bitcoin Magazine][getybitcoin]. Similar to this site yBitcoin magazine will explain bitcoin in plain english.
 
 
-* <i class="fa fa-graduation-cap"></i> Sign up for a [FREE bitcoin payment processing account](https://bitpay.com/start) and start accepting bitcoin orders today!
+* <i class="fa fa-graduation-cap"></i> Sign up for a [FREE bitcoin payment processing account][BitPay] and start accepting bitcoin orders today!
 
 * <i class="fa fa-check"></i> Use these guys? Your business can already accept bitcoin!
     * [Quickbooks](https://paybycoin.intuit.com/)

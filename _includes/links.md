@@ -7,5 +7,5 @@
 
 [Coinbase]: https://coinbase.com/?r=5273a742c8a9350188000027&utm_campaign=user-referral&src=referral-link
 
-[BitPay]: http://www.bitpay.com
+[BitPay]: https://bitpay.com?oid=860830
 
